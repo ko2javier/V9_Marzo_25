@@ -1,0 +1,4 @@
+package com.security.V9_Marzo_25.config;
+
+public class SecurityConfig {
+}
